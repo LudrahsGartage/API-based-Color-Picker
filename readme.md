@@ -4,7 +4,7 @@ Uses the color api to get a color scheme based on a input and scheme type.
 Click on the resulting colors to copy them.
 Works as a chrome extension as well.
 
---Click to View==
+[Click to View!](https://ludrahsgartage.github.io/API-based-Color-Picker/)
 
 ## Features
 
