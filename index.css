@@ -70,6 +70,12 @@ main div{
     border: 1px solid #D1D5DB;
 }
 
+@media (max-width:700px) {
+    .color {
+        min-width: 25%;
+    }
+}
+
 .color-code {
     font-size: 0.75rem;
     line-height: 2em;
