@@ -61,6 +61,7 @@ main div{
 }
 
 .color {
+    cursor: pointer;
     height: 60vh;
     width: 100%;
     min-height: 300px;
@@ -72,4 +73,11 @@ main div{
     font-size: 0.75rem;
     line-height: 2em;
     color: #2B283A;
+    transition: 200ms;
+    transform: scale(1.0);
+}
+
+.color-code:hover {
+    cursor: pointer;
+    transform: scale(1.1);
 }

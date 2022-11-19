@@ -1,0 +1,12 @@
+{
+  "manifest_version": 1,
+  "name": "Color Picker",
+  "version": "1",
+  "icon": {
+    "16":"icon.png",
+    "32":"icon.png",
+    "48":"icon.png",
+    "128":"icon.png"
+  },
+  "description": "Uses the color API to return a scheme of colors. Click on a color to copy it."
+}
